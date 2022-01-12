@@ -3,5 +3,12 @@ Super Poster is a generated poster system built by processing with a graphical u
 The system has a total of two modes corresponding to different poster compositions. The SUPER SHAPE pattern in the poster is a 3D graphic made up of functions, and the shape of the different patterns changes depending on the value.
 
 After you finish producing the poster, you can save the png version directly, or you can use the code from saveFrame () to create the dynamic poster.
+
+
+
 <img width="1792" alt="截图1" src="https://user-images.githubusercontent.com/91132732/149211653-2ef779ef-8c78-41e7-abce-aca9231d60e6.png">
+
+
+
+
 
