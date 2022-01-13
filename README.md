@@ -9,6 +9,8 @@ After you finish producing the poster, you can save the png version directly, or
 <img width="1792" alt="截图1" src="https://user-images.githubusercontent.com/91132732/149211653-2ef779ef-8c78-41e7-abce-aca9231d60e6.png">
 
 
+![5](https://user-images.githubusercontent.com/91132732/149311906-34d289cb-651c-458b-8f07-1638770027f4.jpg)
 
+![3](https://user-images.githubusercontent.com/91132732/149311989-e17f8589-f03d-4136-9f9f-8b782564250b.jpg)
 
 
