@@ -4,6 +4,14 @@ The system has a total of two modes corresponding to different poster compositio
 
 After you finish producing the poster, you can save the png version directly, or you can use the code from saveFrame () to create the dynamic poster.
 
+Please give me suggestions or initiate cooperation！
+
+[ Contact ] 
+
+mail : liuyewenchine@gmail.com
+
+instagram: yewen.liu
+
 
 
 <img width="1792" alt="截图1" src="https://user-images.githubusercontent.com/91132732/149211653-2ef779ef-8c78-41e7-abce-aca9231d60e6.png">
